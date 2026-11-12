@@ -1,0 +1,11 @@
+[project]
+name = "proyecto"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=1.5.0",
+    "langchain-core>=1.8.0",
+    "langchain-google-genai>=4.5.0",
+    "pydantic>=2.14.3",
+    "python-dotenv>=1.2.4",
+]
